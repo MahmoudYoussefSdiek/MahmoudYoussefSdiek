@@ -4,9 +4,19 @@
 <h3 align="center">Software Engineer | Flutter</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
-<p align="left"> <img src
-="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek" />
- </p>
+## Profile Views
+
+  <table>
+    <tr>
+      <th>Total Count</th>
+    </tr>
+    <tr>
+      <td>
+         <a href="https://github.com/mahmoudyoussefsdiek"> <img src="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek"> </a>
+      </td>
+    </tr>
+  </table>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek" /> -->
 
 - 📫 How to reach me **mahmoudyoussefsdiekmd@gmail.com**
 
@@ -22,14 +32,12 @@
 
 ## My Stats:
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="mahmoudyoussefsdiek" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="mahmoudyoussefsdiek" />
+ <img height="200px" src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
-</p>
 
 ## Activity On GitHub:
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudyoussefsdiek&theme=dark&hide_border=true&stroke=f53b3b" alt="mahmoudyoussefsdiek" />
+ <img height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudyoussefsdiek&theme=dark&hide_border=true&stroke=f53b3b" alt="mahmoudyoussefsdiek" />
 </p>
