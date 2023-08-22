@@ -56,8 +56,9 @@
 
 ## My Stats:
 <p align="center">
- <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="mahmoudyoussefsdiek" />
- <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
+ <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="mahmoudyoussefsdiek" />
+ <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
+<!--   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" /> -->
 </p>
 
 
