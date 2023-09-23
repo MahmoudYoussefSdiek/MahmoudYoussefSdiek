@@ -18,9 +18,11 @@
   </table>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek" /> -->
 
-- 📫 How to reach me **mahmoudyoussefsdiekmd@gmail.com**
+- 📫 How to reach me : **mahmoudyoussefsdiekmd@gmail.com**
 
-- 📄 Know about me(CV) [https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
+- 📄 Know about me(CV) : [https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
+  
+- ⚡ Fun fact : **Programming is fun 😂**
 
 ## Connect with me:
 <p align="left">
