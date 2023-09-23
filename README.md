@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **mahmoudyoussefsdiekmd@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
+- 📄 Know about me(CV) [https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
 
 ## Connect with me:
 <p align="left">
