@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi 👋, I'm Mahmoud Youssef </h1>
 <!-- <h1 align="center">
-  Hi <img src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/wave.gif" width="30px" height="30px">, I'm Mahmoud Youssef
+  Hi <img src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/wave.gif" width="30px" height="30px"/>, I'm Mahmoud Youssef
 </h1> -->
 <!-- "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" -->
 <h3 align="center">Software Engineer | Flutter</h3>
