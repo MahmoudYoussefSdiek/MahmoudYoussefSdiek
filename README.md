@@ -1,6 +1,7 @@
 ![MasterHead](https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/coding.gif)
 
 <h1 align="center"> Hi 👋, I'm Mahmoud Youssef </h1>
+
 <!-- <h1 align="center">
   Hi <img src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/wave.gif" width="30px" height="30px"/>, I'm Mahmoud Youssef
 </h1> -->
@@ -54,7 +55,7 @@
 
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,py,java,firebase,sqlite,ai,git,github,linux,vim,bash,md,vscode,androidstudio,linkedin,stackoverflow,discord"/>
+    <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,py,java,firebase,sqlite,ai,git,github,linux,bash,md,vim,vscode,androidstudio,linkedin,stackoverflow,discord"/>
   </a>
   </p>
   <p align="center">
