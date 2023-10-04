@@ -7,6 +7,11 @@
 </h1> -->
 <!-- "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" -->
 <h3 align="center">Software Engineer | Flutter</h3>
+I graduated from Mansoura University in 2019 with a degree in Computer Science, where I gained a solid foundation in programming, mathematics, and problem-solving,
+I am developing my software engineering skills through a rigorous and hands-on curriculum that covers topics such as data structures, algorithms, web development,
+I am passionate about learning new technologies, collaborating with peers, and applying my knowledge to real-world challenges, 
+My goal is to be one of the best software engineers in the world, through means of knowledge, learning, hard-working and technical experience.
+
 <img align="right" alt="Coding" width="400" src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/programming.gif">
 
 ## Profile Views
@@ -25,7 +30,7 @@
 
 - 📫 How to reach me : **mahmoudyoussefsdiekmd@gmail.com**
 
-- 📄 Know about me : [CV](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
+- 📄 My CV : [Link](https://drive.google.com/file/d/1F7Fe8vLVsEfMnZtEyulZEEf86rLa-cWL/view?usp=sharing)
   
 - ⚡ Fun fact : **Programming is fun 😂**
 
