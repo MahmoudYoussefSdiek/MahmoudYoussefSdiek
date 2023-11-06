@@ -79,12 +79,6 @@ My goal is to be one of the world's best software engineers, through knowledge, 
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
 </p>
 
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MahmoudYoussefSdiek&rank_icon=percentile" alt="mahmoudyoussefsdiek" />
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=mahmoudyoussefsdiek&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="mahmoudyoussefsdiek" /> -->
-</p>
--->
 
 ## Activity On GitHub:
 <p align="center">
