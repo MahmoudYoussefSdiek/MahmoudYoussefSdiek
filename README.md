@@ -14,7 +14,7 @@ I graduated from Mansoura University in 2019 with a degree in Computer Science, 
 My goal is to be one of the world's best software engineers, through knowledge, learning, hard-working and technical experience.
 
 
-<img align="right" alt="Coding" width="400" src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/programming.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/coding.gif">
 
 ## Profile Views
 
