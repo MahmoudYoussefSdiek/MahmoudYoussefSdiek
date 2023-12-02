@@ -16,7 +16,7 @@ My goal is to be one of the world's best software engineers, through knowledge, 
 
 
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/MYS__5_-removebg-preview.png"> -->
-<img align="right" alt="MYS"  src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/MYS.png">
+<img align="right" alt="MYS" width="400" src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/MYS.png">
 
 ## Profile Views
 
