@@ -68,6 +68,13 @@ My goal is to be one of the world's best software engineers, through knowledge, 
    </a>
   </p>
 
+<!--  
+  <p>
+    <img src="https://img.shields.io/badge/Flutter-white?logo=Flutter&logoColor=blue&color=white">
+    <img src="https://img.shields.io/badge/Dart-blue?logo=Dart&logoColor=white&color=blue">
+  </p>
+  -->
+  
 ## My Projects
 - App on Google Play : [Cinematic World](https://play.google.com/store/apps/details?id=com.MahmoudYoussef.Journey_To_Cinematic_World)
 
@@ -78,7 +85,6 @@ My goal is to be one of the world's best software engineers, through knowledge, 
  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&layout=compact&bg_color=151515" alt="mahmoudyoussefsdiek" />
  <img height="180px" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mahmoudyoussefsdiek&hide_border=true&show_icons=true&locale=en&bg_color=151515" alt="mahmoudyoussefsdiek" />
 </p>
-
 
 ## Activity On GitHub:
 <p align="center">
