@@ -64,7 +64,7 @@ My goal is to be one of the world's best software engineers, through knowledge, 
 
   <p align="center">
    <a href="https://skillicons.dev">
-     <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,py,java,firebase,sqlite,ai,git,github,linux,bash,md,vim,vscode,androidstudio,linkedin,stackoverflow,discord"/>
+     <img src="https://skillicons.dev/icons?i=c,cpp,dart,flutter,py,js,java,html,css,firebase,sqlite,linux,bash,vim,ai,git,github,vscode,androidstudio,postman,figma,linkedin,stackoverflow,discord"/>
    </a>
   </p>
 
