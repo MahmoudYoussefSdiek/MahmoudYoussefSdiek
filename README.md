@@ -31,7 +31,7 @@ As A Software Engineer with a solid foundation in computer science from Mansoura
   </table>
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek" /> -->
 
-- 📫 How to reach me : **mahmoudyoussefsdiekmd@gmail.com**
+- 📫 How to reach me : **Mahmoud.Sdiek@outlook.com** , **mahmoudyoussefsdiekmd@gmail.com**
 - 🌱 I’m currently learning : Back-End with ALX program
 - 📄 My CV : [Link](https://drive.google.com/file/d/1aQK1x2Og5Cc2CfgmV5QBngKRHmwmDmWM/view?usp=sharing)
   
