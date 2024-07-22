@@ -8,7 +8,7 @@
   Hi <img src="https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/wave.gif" width="30px" height="30px"/>, I'm Mahmoud Youssef
 </h1> -->
 <!-- "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" -->
-<h3 align="center">Software Engineer | Flutter | Back-End</h3>
+<h3 align="center">Software Engineer | Back-End | Flutter</h3>
 
 ## <picture><img src = "https://github.com/MahmoudYoussefSdiek/MahmoudYoussefSdiek/blob/main/Icons/about_me.gif" width = 50px></picture> About me
 As A Software Engineer with a solid foundation in computer science from Mansoura University, complemented by advanced skills acquired through the ALX internship, I am passionate about learning new technologies, collaborating with others, and applying my knowledge to real-world challenges, continuously upgrading my expertise, and embracing new technologies daily, my ambition is to become one of the world's top software engineers.
@@ -32,7 +32,7 @@ As A Software Engineer with a solid foundation in computer science from Mansoura
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudyoussefsdiek&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudyoussefsdiek" /> -->
 
 - 📫 How to reach me: **Mahmoud.Sdiek@outlook.com**  **mahmoudyoussefsdiekmd@gmail.com**
-- 🌱 I’m currently learning: Back-End with ALX program
+- 🌱 I’m currently learning: Working as Software Engineer | Back-End at LevelUp ESG
 - 📄 My CV : [Link](https://drive.google.com/file/d/1aQK1x2Og5Cc2CfgmV5QBngKRHmwmDmWM/view?usp=sharing)
   
 - ⚡ Fun fact : **Programming is fun 😂**
